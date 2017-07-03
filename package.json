@@ -1,14 +1,11 @@
 {
   "name": "resize-image",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lambda function to resize image from S3",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["lambda function", "aws lambda", "resize image", "s3"],
+  "author": "Kunapot Pairat",
+  "license": "MIT",
   "dependencies": {
     "gm": "^1.23.0"
   }
