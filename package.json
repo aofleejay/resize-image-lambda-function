@@ -4,7 +4,7 @@
   "description": "Lambda function to resize image from S3",
   "main": "index.js",
   "keywords": ["lambda function", "aws lambda", "resize image", "s3"],
-  "author": "Kunapot Pairat",
+  "author": "aofleejay",
   "license": "MIT",
   "dependencies": {
     "gm": "^1.23.0"
